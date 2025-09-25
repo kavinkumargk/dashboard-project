@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Stack Dashboard
 
 This project is a simple dashboard application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
@@ -57,3 +58,7 @@ mern-dashboard/
 │   ├── package.json
 │   └── ...
 ├── README.md
+=======
+# mern-dashboard
+A full-stack dashboard application built with React (frontend) and Express.js (backend). Backend provides API endpoints (users, tasks). Frontend displays statistics cards, user list, and tasks in a simple dashboard UI. Tech stack: React, Node.js, Express, Axios, CORS.
+>>>>>>> de636b93de1bcce0d72658393376af8c6c013266
